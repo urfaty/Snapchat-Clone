@@ -23,11 +23,11 @@
 <div>
   <img src="ReadmeImages/ss10.png" width= "200">
   <img src="ReadmeImages/ss11.png" width= "200">
-  <img src="ReadmeImages/ss12.png" width= "200">
+  <img src="ReadmeImages/s12.png" width= "200">
 <div>
 
 <div>
-  <img src="ReadmeImages/ss13.png" width= "200">
-  <img src="ReadmeImages/ss14.png" width= "200">
+  <img src="ReadmeImages/s13.png" width= "200">
+  <img src="ReadmeImages/s14.png" width= "200">
   <img src="ReadmeImages/ss15.png" width= "200">
 <div>
